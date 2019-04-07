@@ -14,20 +14,20 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Venkateshan K
-email: your-email@example.com
+#email: whatever@myemail.com
 description: >- # this means to ignore newlines until "baseurl:"
-   Homepage of Venkateshan K.  
+# Homepage of Venkateshan K.  
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "www.vertexcorrect.wordpress.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: resonantEntropy
-github_username:  Venky128
+url: "github.io/Venky256" # the base hostname & protocol for your site, e.g. http://example.com
+#twitter_username: resonantEntropy
+#github_username:  Venky128
 
 # Build settings
 markdown: kramdown
-#theme: minima
+theme: minima
 #theme: jekyll-theme-minimal
 #theme: jekyll-theme-primer
-theme: jekyll-theme-architect
+#theme: jekyll-theme-architect
 plugins:
   - jekyll-feed
 
